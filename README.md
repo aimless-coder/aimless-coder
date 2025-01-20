@@ -85,7 +85,7 @@
 <div align="left">
 <ul>
 <li>
-<a href="www.linkedin.com/in/dipankarpurkayastha" target="_blank">
+<a href="www.linkedin.com/in/dipankarpurkayastha">
 <img src="https://img.shields.io/badge/linkedin:  dipankarpurkayastha-%2300acee.svg?color=405DE6&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a>
 </li>
