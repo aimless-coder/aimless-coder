@@ -20,7 +20,7 @@
 <li>
 <p><strong>Languages</strong>:</p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src=" https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
@@ -33,20 +33,20 @@
 <li>
 <p><strong>Web Development</strong>:</p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&amp;logo=ejs&amp;logoColor=black" alt="EJS style=" margin:="" 10px;""="">
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
-<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&amp;logo=Electron&amp;logoColor=white" alt="Electron.js">
-<img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&amp;logo=greensock&amp;logoColor=white" alt="Green Sock">
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
-<img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&amp;logo=nodemon&amp;logoColor=%BBDEAD" alt="Nodemon">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="React Router">
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;badgeColor=010101" alt="Socket.io">
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" alt="Three js">
-<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase"></div>
+<img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&amp;logo=greensock&amp;logoColor=white" alt="Green Sock">
+<img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&amp;logo=ejs&amp;logoColor=black" alt="EJS>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
+<img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&amp;logo=nodemon&amp;logoColor=%BBDEAD" alt="Nodemon">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS">
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&amp;logo=Electron&amp;logoColor=white" alt="Electron.js">
+<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></div>
 </li>
 </ul>
 <br>
@@ -60,6 +60,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&amp;logo=windows-terminal&amp;logoColor=white" alt="Windows Terminal"></div>
 </li>
 </ul>
