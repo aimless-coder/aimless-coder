@@ -8,7 +8,7 @@
 <ul>
 <li>🔭 A passionate Web developer</li>
 <li>👯 I’m looking to collaborate on full-stack web apps and AI integrations.</li>
-<li>💬 Ask me about React, Node.js, and 3D with Three.js.</li>
+<li>💬 Ask me about React, Node.js, and GenAI.</li>
 <li>⚡ Personal website <a href="https://dipankarpurkayastha.vercel.app/" target="_blank">link</a></li>
 </ul>
 <p><br></p>
