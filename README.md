@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;badgeColor=010101" alt="Socket.io">
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" alt="Three js">
 <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&amp;logo=greensock&amp;logoColor=white" alt="Green Sock">
-<img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&amp;logo=ejs&amp;logoColor=black" alt="EJS>
+<img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&amp;logo=ejs&amp;logoColor=black" alt="EJS">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
