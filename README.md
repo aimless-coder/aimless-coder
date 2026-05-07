@@ -1,14 +1,14 @@
-  <h1 align="center"><b>Hi , I'm Dipankar Purkayastha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Dipankar Purkayastha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=30&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=40&amp;lines=Web+Developer,;Computer+Science+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=30&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=45&amp;lines=Web+Developer,;Data+Analytics+Enthusiast,;Computer+Science+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
 </p>
-<h2 id="-about-me"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhmbXRuZG93bXlwZGJvY2thbmtraW45emJla2J3MnN5b2pidmd4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBSQu6cuMoBZMC6daR/giphy.gif" width="35"> <strong>About me</strong></h2>
+<h2 id="-about-me"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhmbXRuZG93bXlwZGJvY2thbmtraW45emJla2J3MnN5b2pidmd4OSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9cw/JBSQu6cuMoBZMC6daR/giphy.gif" width="35"> <strong>About me</strong></h2>
 <br>
 <ul>
-<li>🔭 A passionate Web developer</li>
-<li>👯 I’m looking to collaborate on full-stack web apps and AI integrations.</li>
-<li>💬 Ask me about React, Node.js, and GenAI.</li>
+<li>🔭 A passionate Web developer and data analytics enthusiast</li>
+<li>👯 I’m looking to collaborate on full-stack web apps, data projects, and AI integrations.</li>
+<li>💬 Ask me about React, Node.js, GenAI, and data analysis.</li>
 <li>⚡ Personal website <a href="https://dipankarpurkayastha.vercel.app/" target="_blank">link</a></li>
 </ul>
 <p><br></p>
@@ -34,7 +34,7 @@
 <p><strong>Web Development</strong>:</p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" >
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" >
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="React Router">
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;badgeColor=010101" alt="Socket.io">
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" alt="Three js">
@@ -47,7 +47,22 @@
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS">
 <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&amp;logo=Electron&amp;logoColor=white" alt="Electron.js">
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></div>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"></div>
+</li>
+</ul>
+<br>
+<ul>
+<li>
+<p><strong>Data Analytics</strong>:</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-2E5EAA?style=for-the-badge&amp;logoColor=white" alt="Seaborn">
+<img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge&amp;logoColor=white" alt="Data Analysis">
+<img src="https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&amp;logoColor=white" alt="Data Visualization">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&amp;logoColor=white" alt="Machine Learning"></div>
 </li>
 </ul>
 <br>
@@ -67,22 +82,9 @@
 </ul>
 <p></p>
 <hr>
-<br>
-<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
-<br>
-<div style="display:flex; flex-wrap: wrap; gap: 20px">
-<a href="https://github.com/aimless-coder/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimless-coder&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" height="120" width="300">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aimless-coder&amp;theme=radical&amp;hide_border=false" height="120" width="300">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimless-coder&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" height="120" width="300">
 
-</a>
-</div>
 <br>
-<br>
-<hr>
-<br>
-<h2 id="-lets-connect"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdnN3hxcnA0Z3Jsd3dvNXNvNWRoeDRvZDRhb3psa2dlYTdiajl1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/se6QSoA9i3SnuqOBrm/giphy.gif" width="35"><b> Let’s Connect..!</b></h2>
+<h2 id="-lets-connect"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdnN3hxcnA0Z3Jsd3dvNXNvNWRoeDRvZDRhb3psa2dlYTdiajl1bSZlcD12MV9pbnRlcm5hbGZfYnlfaWQmY3Q9cw/se6QSoA9i3SnuqOBrm/giphy.gif" width="35"><b> Let’s Connect..!</b></h2>
 <br>
 <div align="left">
 <ul>
